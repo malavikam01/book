@@ -1,0 +1,42 @@
+h1{
+  color: rgb(2, 2, 18);
+  font-family:'Times New Roman', Times, serif;
+  text-align: center;
+  background-color: rgb(255, 242, 0);
+  font-size: 300%;
+}
+
+body {
+  font-family:'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  
+}
+
+input {
+  margin: 5px 0;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px 0;
+  color: #dc2121;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  border: 1px solid #c6dc21;
+  padding: 10px;
+}
